@@ -3,10 +3,10 @@ This is the project created to answer Q.3.2P.9 of Assignment_3_2P.
 
 
 # Usage
-The package 'cheating' contains the function cheat().
+This package contains the function cheat().
 The cheat() function takes one argument specifying which exercise of any previous Python assignment the user wants to cheat on. 
 The argument has to be a string.
-Given the exercise number, cheat()function tells the user the correct solution.
+Given the exercise number, cheat() function tells the user the correct solution.
 
 
 # Example
@@ -35,10 +35,10 @@ print(new_array[1, 2, 2])
 In your Pycharm terminal type: pip install git+https://github.com/lucija-blazevski/assignment_python.git
 
 
-Then in your Pycharm console type: from cheating import cheat*
+Then in your Pycharm console type: from cheat import cheat
 
 
 Now you are ready to use the function cheat()
 
 
-*If you want to avoid importing the module, you can use: cheating.cheat()
+*If you want to avoid importing the module, you can use: cheat.cheat()
