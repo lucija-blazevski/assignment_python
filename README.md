@@ -32,7 +32,7 @@ print(new_array[1, 2, 2])
 
 
 # Instalation
-In your Pycharm terminal type: pip install git+https://github.com/lucija-blazevski/new_package.git
+In your Pycharm terminal type: pip install git+https://github.com/lucija-blazevski/assignment_python.git
 
 
 Then in your Pycharm console type: from cheating import cheat*
