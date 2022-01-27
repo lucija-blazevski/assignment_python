@@ -35,10 +35,10 @@ print(new_array[1, 2, 2])
 In your Pycharm terminal type: pip install git+https://github.com/lucija-blazevski/assignment_python.git
 
 
-Then in your Pycharm console type: from cheat import cheat
+Then in your Pycharm console type: from cheat import cheat * 
 
 
 Now you are ready to use the function cheat()
 
 
-*If you want to avoid importing the module, you can use: cheat.cheat()
+*If the import state is as follows: "import cheat", to use the function cheat() use: cheat.cheat()
