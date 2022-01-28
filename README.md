@@ -1,4 +1,4 @@
-## Package cheat
+## Function 'Cheat'
 
 1. [Usage](#usage)
 2. [Motivation](#motivation)
