@@ -4,7 +4,7 @@ This is the project created to answer Q.3.2P.9 of Assignment_3_2P.
 
 # Usage
 This package contains one module, which contains the function cheat().
-The cheat() function takes one argument specifying which exercise of any previous Python assignment the user wants to cheat on. 
+The cheat() function takes one argument specifying which exercise of any previous Python assignments the user wants to cheat on. 
 The argument has to be a string.
 Given the exercise number, cheat() function tells the user the correct solution.
 
